@@ -22,7 +22,10 @@ span {
 }
 .part-3 {
     background:url(images/s_image.jpg)no-repeat;
-    height:300px;
+    height:250px;
     margin-top:100px;
+    text-align: center;
+    padding-top: 100px;
+    color:white;
     
 }

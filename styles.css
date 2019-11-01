@@ -1,4 +1,28 @@
 .part-1 {
-    background: url(images/p1.jpg);
-    height:900px;
+    background: url(images/p1.jpg)no-repeat;
+    height:800px;
+    text-align: center;
+    padding-top: 260px;
+    font-size: 42px;
+
+}
+p {
+    color: white;
+}
+span {
+    font-size: 20px;
+}
+.part-2 {
+    margin-top: 10px;
+    text-align: center;
+}
+.part-2 h1, p {
+    font-size: 26;
+    color: black;
+}
+.part-3 {
+    background:url(images/s_image.jpg)no-repeat;
+    height:300px;
+    margin-top:100px;
+    
 }

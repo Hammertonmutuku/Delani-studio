@@ -69,4 +69,6 @@ h1 {
 .point {
     cursor: pointer;
 }
-.TE
+.texts {
+    display: none;
+}

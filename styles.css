@@ -66,3 +66,7 @@ h1 {
 .pp:hover{
     opacity:0.2;
 }
+.point {
+    cursor: pointer;
+}
+.TE

@@ -22,7 +22,14 @@ span {
     text-align: center;
     padding-top: 70px;
     color:white;
-    
+}
+.text {
+    position:absolute;
+    top:50%;
+    left:50%;
+    transform: translate(-50%,-50%);
+    color:black;
+   display:none;
 }
 .part-4 {
     margin-top:30px;
@@ -55,4 +62,7 @@ h1 {
       text-align: center;
       margin-top: 130px;
       color:black;
+}
+.pp:hover{
+    opacity:0.2;
 }

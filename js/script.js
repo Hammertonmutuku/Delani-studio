@@ -10,6 +10,18 @@ let submit = function(){
     }
 }
 $(document).ready(function(){
+    $("#design1").click(function(){
+        $("#design").toggle()
+    });
+    $("#develop1").click(function(){
+        $("#developing").toggle()
+    });
+    $("#product1").click(function(){
+        $("#product").toggle()
+    });
+
+})
+$(document).ready(function(){
     $("#project1").hover(
         function(){
         $("#text1").show("slow");
@@ -40,6 +52,7 @@ $(document).ready(function(){
     });
     $("#project5").hover(
         function(){
+
         $("#text5").show("slow");
     },
     function(){

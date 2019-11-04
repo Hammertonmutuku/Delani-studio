@@ -18,22 +18,25 @@ span {
 .part-3 {
     background:url(images/s_image.jpg)no-repeat;
     height:250px;
-    margin-top:100px;
+    margin-top:80px;
     text-align: center;
-    padding-top: 100px;
+    padding-top: 70px;
     color:white;
     
 }
 .part-4 {
-    margin-top:50px;
+    margin-top:30px;
 }
 h1 {
     text-align: center;
     margin-bottom: 60px;
     margin-top:30px;
 }
+.part-4-1 {
+    margin-top: 10px;
+}
 .mid {
-    padding-top: 40px;
+    padding-top: 30px;
 }
 .part-5 {
     background:url(images/c_image.jpg);
@@ -51,4 +54,5 @@ h1 {
 .part-6 {
       text-align: center;
       margin-top: 130px;
+      color:black;
 }

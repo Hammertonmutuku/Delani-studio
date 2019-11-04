@@ -5,10 +5,8 @@
     text-align: center;
     padding-top: 260px;
     font-size: 42px;
-
-}
-p {
     color: white;
+
 }
 span {
     font-size: 20px;
@@ -16,10 +14,6 @@ span {
 .part-2 {
     margin-top: 10px;
     text-align: center;
-}
-.part-2 h1, p {
-    font-size: 26;
-    color: black;
 }
 .part-3 {
     background:url(images/s_image.jpg)no-repeat;
@@ -57,7 +51,4 @@ h1 {
 .part-6 {
       text-align: center;
       margin-top: 130px;
-}
-.words {
-    color: white;
 }

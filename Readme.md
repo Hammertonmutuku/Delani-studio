@@ -9,7 +9,8 @@
 - Author
 # Akan-Name
 ## DESCRIPTION
-- The website is a school project that we were supposed to create as our Independent projects.
+- The website is a school project that we were supposed to create as our Independent projects. The website "Delani studio" is website about a portfolio
+for Delani. It has the websites that he has worked on and a place to comment on his work. 
 ## Deployment
 - You can view this site directly [here] https://hammertonmutuku.github.io/Delani-studio/
 

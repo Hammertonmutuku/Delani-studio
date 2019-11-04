@@ -1,3 +1,4 @@
+
 .part-1 {
     background: url(images/p1.jpg)no-repeat;
     height:800px;
@@ -28,4 +29,27 @@ span {
     padding-top: 100px;
     color:white;
     
+}
+.part-4 {
+    margin-top:50px;
+}
+h1 {
+    text-align: center;
+    margin-bottom: 60px;
+    margin-top:30px;
+}
+.mid {
+    padding-top: 40px;
+}
+.part-5 {
+    background:url(images/c_image.jpg);
+    height:500px;
+    margin-top:50px;
+    color:white;
+}
+.horizontal {
+    margin-top: 30px;
+}
+.form-group {
+    margin-left: 10px;
 }

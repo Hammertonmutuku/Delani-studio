@@ -11,13 +11,13 @@ let submit = function(){
 }
 $(document).ready(function(){
     $("#design1").click(function(){
-        $("#design").toggle()
+        $("#design").toggle("1000")
     });
     $("#develop1").click(function(){
-        $("#developing").toggle()
+        $("#developing").toggle("1000")
     });
     $("#product1").click(function(){
-        $("#product").toggle()
+        $("#product").toggle("1000")
     });
 
 })

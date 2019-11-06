@@ -11,13 +11,28 @@ let submit = function(){
 }
 $(document).ready(function(){
     $("#design1").click(function(){
-        $("#design").toggle("1000")
+        $("#design").show("1000")
+        $("#design1").hide("1000")
+    });
+    $("#design").click(function(){
+        $("#design1").show("1000")
+        $("#design").hide("1000")
     });
     $("#develop1").click(function(){
-        $("#developing").toggle("1000")
+        $("#developing").show("1000")
+        $("#develop1").hide("1000")
+    });
+    $("#developing").click(function(){
+        $("#develop1").show("1000")
+        $("#developing").hide("1000")
     });
     $("#product1").click(function(){
-        $("#product").toggle("1000")
+        $("#product").show("1000")
+        $("#product1").hide("1000")
+    });
+    $("#product").click(function(){
+        $("#product1").show("1000")
+        $("#product").hide("1000")
     });
 
 })

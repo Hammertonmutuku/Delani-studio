@@ -1,4 +1,7 @@
-
+html, body {
+    height: 100%;
+    width: 100%;
+}
 .part-1 {
     background: url(images/p1.jpg)no-repeat;
     height:800px;
@@ -71,6 +74,9 @@ h1 {
 }
 .texts {
     display: none;
+}
+#name, #email, #message {
+    background: transparent;
 }
 #mouse {
     animation: mouse 2s infinite;
